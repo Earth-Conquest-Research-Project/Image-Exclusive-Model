@@ -102,5 +102,5 @@
 
 
 ### 3.2 전체 시스템 구성
-![학습 아키텍처](image\TrainArchitecture.png)
-![추론 아키텍처](image\InferenceArchitecture.png)
+<img width="11525" height="6371" alt="Group 9" src="https://github.com/user-attachments/assets/41c26a24-8268-47a0-bb6a-22602e2fe84b" />
+<img width="9384" height="6294" alt="Group 10" src="https://github.com/user-attachments/assets/3be1adac-e5f1-45cb-a71b-6bf649b2ff17" />
